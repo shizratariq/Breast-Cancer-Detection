@@ -11,7 +11,7 @@ This project compares different **machine learning algorithms** for breast cance
 
 ### Results Overview  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6f55986b-c974-4248-b8f1-0b4a5dc76d97" height="400">
+  <img src="https://github.com/user-attachments/assets/6f55986b-c974-4248-b8f1-0b4a5dc76d97" width="600">
 </p>  
 
 ### Comparative Analysis of Models  
