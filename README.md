@@ -11,7 +11,7 @@ This project compares different **machine learning algorithms** for breast cance
 
 ### Results Overview  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6f55986b-c974-4248-b8f1-0b4a5dc76d97" width="700" height="400">
+  <img src="https://github.com/user-attachments/assets/6f55986b-c974-4248-b8f1-0b4a5dc76d97" height="400">
 </p>  
 
 ### Comparative Analysis of Models  
@@ -29,10 +29,10 @@ A new feature was implemented to analyze **real-time mammography images** for br
 
 ### Breast Cancer Detection in Real-Time Mammography Image  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ce3b442d-8f37-4b2a-826a-c9eee9235d45" width="700" height="400">
+  <img src="https://github.com/user-attachments/assets/ce3b442d-8f37-4b2a-826a-c9eee9235d45" height="400">
 </p>  
 
 ### Results for Mammography Image Testing  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/79e8c793-bd0e-4957-a62f-0f1d8bd1b96b" width="700" height="400">
+  <img src="https://github.com/user-attachments/assets/79e8c793-bd0e-4957-a62f-0f1d8bd1b96b" height="400">
 </p>  
