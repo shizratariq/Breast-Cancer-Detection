@@ -16,7 +16,7 @@ This project compares different **machine learning algorithms** for breast cance
 
 ### Comparative Analysis of Models  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/00562fb5-be0e-4ba3-baa6-dffc5db8d973" width="700" height="400">
+  <img src="https://github.com/user-attachments/assets/00562fb5-be0e-4ba3-baa6-dffc5db8d973" width="600">
 </p>  
 
 ## 🏥 Added Feature: Detection from Mammography Images  
