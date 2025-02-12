@@ -10,10 +10,14 @@ This project compares different **machine learning algorithms** for breast cance
 - **Real-time mammography image analysis** was successfully implemented, with all models correctly classifying malignant cases.  
 
 ### Results Overview  
-<img src="https://github.com/user-attachments/assets/6f55986b-c974-4248-b8f1-0b4a5dc76d97" width="600">  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6f55986b-c974-4248-b8f1-0b4a5dc76d97" width="700" height="400">
+</p>  
 
 ### Comparative Analysis of Models  
-<img src="https://github.com/user-attachments/assets/00562fb5-be0e-4ba3-baa6-dffc5db8d973" width="600">  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/00562fb5-be0e-4ba3-baa6-dffc5db8d973" width="700" height="400">
+</p>  
 
 ## 🏥 Added Feature: Detection from Mammography Images  
 A new feature was implemented to analyze **real-time mammography images** for breast cancer detection. The process includes:  
@@ -24,7 +28,11 @@ A new feature was implemented to analyze **real-time mammography images** for br
 - **Prediction Output**: Each model predicts whether the tumor is **benign or malignant**, along with a **probability score**.  
 
 ### Breast Cancer Detection in Real-Time Mammography Image  
-<img src="https://github.com/user-attachments/assets/ce3b442d-8f37-4b2a-826a-c9eee9235d45" width="500">  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ce3b442d-8f37-4b2a-826a-c9eee9235d45" width="700" height="400">
+</p>  
 
 ### Results for Mammography Image Testing  
-<img src="https://github.com/user-attachments/assets/79e8c793-bd0e-4957-a62f-0f1d8bd1b96b" width="500">  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/79e8c793-bd0e-4957-a62f-0f1d8bd1b96b" width="700" height="400">
+</p>  
